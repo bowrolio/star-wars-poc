@@ -1,0 +1,13 @@
+{
+  "Header.title": "Star Wars Characters Front End",
+  "Header.text": "Powered by SWAPI... The Start Wars API",
+  "Search.placeholder": "Search a name...",
+  "Table.name": "Name",
+  "Table.height": "Height (cm)",
+  "Table.mass": "Mass (kg)",
+  "Table.hairColor": "Hair Color",
+  "Table.eyeColor": "Eye Color",
+  "Table.birthYear": "Year of Birth",
+  "Table.gender": "Gender",
+  "Table.homeworld": "Home World"
+}
